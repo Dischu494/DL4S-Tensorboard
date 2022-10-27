@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "DL4S",
-        "repositoryURL": "https://github.com/palle-k/DL4S.git",
+        "repositoryURL": "https://github.com/dischu494/DL4S.git",
         "state": {
           "branch": "master",
           "revision": "1f90f8790bc23c2cfcd4c94f27cf6ef011d78cba",
